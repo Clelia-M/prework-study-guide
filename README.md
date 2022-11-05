@@ -2,7 +2,7 @@
 
 ## 📝 Description 
 
-This Prework Study Guide was created as part of my Trilogy Bootcamp prework. It helpem me to go through the Prework and it contains a few notes on HTML, CSS, Git, and JavaScript.
+This Prework Study Guide was created as part of my Trilogy Bootcamp prework. It helped me to go through the Prework and it contains a few notes on HTML, CSS, Git, and JavaScript.
 
 ## 🚀 Installation
 
